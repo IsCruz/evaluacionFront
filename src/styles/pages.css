@@ -1,0 +1,9 @@
+.homeHeight {
+    height: 100vh!important;
+}
+
+.container .someMargins {
+padding-top: 4%!important;
+padding-left: 5%!important;
+padding-right: 5%!important;
+}

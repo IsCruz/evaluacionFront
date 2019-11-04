@@ -1,0 +1,12 @@
+.jumbotron { 
+    padding: 30px; /* fills out the jumbotron */
+    background-color: #d66367;
+  }
+  
+  
+  .jumbotron h1, .jumbotron h5 { 
+    text-align: left;
+    color: white;
+    font-family: 'Roboto', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+  }
